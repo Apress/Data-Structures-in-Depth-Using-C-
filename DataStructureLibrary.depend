@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1725089873 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\main.cpp
+	<iostream>
+	"DynamicArray.h"
+	"SinglyLL.h"
+	"SinglyLLTailed.h"
+	"DLList.h"
+	"StackArray.h"
+	"StackLL.h"
+	"QueueArray.h"
+	"QueueLL.h"
+	"DequeArray.h"
+	"DequeLL.h"
+	"ChainedHashTable.h"
+	"LinearHashTable.h"
+	"BinaryTreeArray.h"
+	"BinarySearchTree.h"
+	"AVLTree.h"
+	"BTreeNode.h"
+	"BinaryHeap.h"
+	"PriorityQueue.h"
+	"GraphAdjMatrix.h"
+	"GraphAdjList.h"
+	"Map.h"
+	"SEList.h"
+	"SkipList.h"
+	"TaskManager.h"
+	"TaskHandlerApp.h"
+	"FriendManager.h"
+	"FriendsHandlerApp.h"
+	"LibraryHandlerApp.h"
+
+1725084124 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\dynamicarray.h
+	<algorithm>
+	"IList.h"
+
+1724714180 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\ilist.h
+	<stdexcept>
+	<cassert>
+	<iostream>
+
+1725082772 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\singlyll.h
+	"Node.h"
+	"IList.h"
+
+1718766613 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\node.h
+
+1724499991 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\singlylltailed.h
+	"SinglyLL.h"
+
+1724890226 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\dllist.h
+	"DNode.h"
+	"IList.h"
+
+1724885408 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\dnode.h
+	"Node.h"
+
+1718811442 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\stackarray.h
+	"DynamicArray.h"
+
+1718811473 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\stackll.h
+	"SinglyLL.h"
+
+1724728293 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\queuearray.h
+	"DynamicArray.h"
+
+1718811442 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\queuell.h
+	"SinglyLLTailed.h"
+
+1724501273 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\dequearray.h
+	"DynamicArray.h"
+
+1718811228 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\dequell.h
+	"DLList.h"
+
+1725083729 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\chainedhashtable.h
+	"ISet.h"
+	"DynamicArray.h"
+	"SinglyLL.h"
+	<cmath>
+
+1718821265 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\iset.h
+
+1724502119 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\linearhashtable.h
+	"ISet.h"
+	"DynamicArray.h"
+
+1724708212 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\binarytreearray.h
+	"DynamicArray.h"
+
+1724708212 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\binarytree.h
+	"ITree.h"
+	"BTreeNode.h"
+	"QueueArray.h"
+
+1724528702 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\itree.h
+
+1724524088 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\btreenode.h
+
+1724524973 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\avltree.h
+	"BinarySearchTree.h"
+	"BTreeNode.h"
+
+1724522098 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\binarysearchtree.h
+	"BinaryTree.h"
+
+1724888796 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\graphadjmatrix.h
+	"IGraph.h"
+	"DynamicArray.h"
+
+1724888744 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\igraph.h
+	<iostream>
+	<stdexcept>
+
+1724909909 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\graphadjlist.h
+	"IGraph.h"
+	"DynamicArray.h"
+	"StackArray.h"
+	"QueueArray.h"
+	"DLList.h"
+	"Vertex.h"
+
+1725064585 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\binaryheap.h
+	"DynamicArray.h"
+
+1725083615 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\map.h
+	"ChainedHashTable.h"
+	"Pair.h"
+	<stdexcept>
+
+1724664445 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\pair.h
+
+1724717805 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\selist.h
+	<algorithm>
+	"IList.h"
+	"ListNode.h"
+
+1724694525 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\listnode.h
+
+1724728566 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\vertex.h
+
+1724732610 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\skiplist.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"SKNode.h"
+
+1724728636 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\sknode.h
+	"DynamicArray.h"
+
+1725018001 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\priorityqueue.h
+	"PQNode.h"
+	"BinaryHeap.h"
+	<iostream>
+
+1724983159 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\pqnode.h
+	<iostream>
+
+1725018002 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\taskmanager.h
+	<string>
+	"PriorityQueue.h"
+	"Map.h"
+
+1725018002 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\taskhandlerapp.h
+	"TaskManager.h"
+	<iostream>
+
+1725018002 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\taskhandlerapp.cpp
+	"TaskHandlerApp.h"
+	"TaskManager.h"
+
+1725018001 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\taskmanager.cpp
+	"TaskManager.h"
+
+1724911316 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendrecommendation.h
+	<iostream>
+	<stdexcept>
+	<string>
+	"DynamicArray.h"
+	"Map.h"
+	"GraphAdjList.h"
+	"PriorityQueue.h"
+
+1724976889 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendrecommendation.cpp
+	"FriendRecommendation.h"
+	<iostream>
+
+1724911610 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendrecommendationhandlerapp.cpp
+	"FriendRecommendationHandlerApp.h"
+	<iostream>
+
+1724911508 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendrecommendationhandlerapp.h
+	"FriendRecommendation.h"
+
+1725079836 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendmanager.cpp
+	"FriendManager.h"
+	<iostream>
+
+1725018302 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendmanager.h
+	<iostream>
+	<stdexcept>
+	<string>
+	"DynamicArray.h"
+	"Map.h"
+	"GraphAdjList.h"
+	"PriorityQueue.h"
+
+1725018001 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendshandlerapp.cpp
+	"FriendsHandlerApp.h"
+	<iostream>
+
+1725018302 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\friendshandlerapp.h
+	"FriendManager.h"
+
+1725086420 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\libraryhandlerapp.h
+	"LibraryManager.h"
+	<iostream>
+
+1725086420 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\librarymanager.h
+	"Book.h"
+	"Borrower.h"
+	"Map.h"
+	"PriorityQueue.h"
+	<iostream>
+
+1725086189 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\book.h
+	<string>
+	<iostream>
+
+1725086286 k:\github\projects-4\data-structure-in-depth\datastructurelibrary\borrower.h
+	<string>
+	"DynamicArray.h"
+	<iostream>
+
+1725086189 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\book.cpp
+	"Book.h"
+
+1725086286 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\borrower.cpp
+	"Borrower.h"
+
+1725086420 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\libraryhandlerapp.cpp
+	"LibraryHandlerApp.h"
+
+1725086420 source:k:\github\projects-4\data-structure-in-depth\datastructurelibrary\librarymanager.cpp
+	"LibraryManager.h"
+
